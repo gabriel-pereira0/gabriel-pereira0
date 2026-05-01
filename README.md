@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Pereira  🖐️
 ### Estou em transição para a área de Tecnologia, com foco no Desenvolvimento Front-End e Back-End.  
 ### Atualmente, estou em busca da minha primeira oportunidade na área para adquirir experiência prática e continuar evoluindo profissionalmente.
-### Estou estudando e me preparando para me tornar um futuro desenvolvedor, sempre em busca de novos aprendizados e desafios.
+### Tenho me dedicado aos estudos com o objetivo de me tornar um desenvolvedor, sempre buscando novos aprendizados e desafios.
 
 
 
@@ -14,6 +14,9 @@
 <img align = "center" alt = "Python" src= "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  
 <img align = "center" alt = "Pandas" src= "https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
 <img align = "center" alt = "MySQL" src= "https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+<img align = "center" alt = "Git" src= "https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white">
+<img align = "center" alt = "GitHub" src= "https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white">
+
 
 
 
